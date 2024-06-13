@@ -16,4 +16,4 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-Welcome to my webiste! There is still some work left to do... Please hold on :)
+Welcome to my website! There is still some work left to do... Please hold on :)
