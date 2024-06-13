@@ -6,7 +6,7 @@ title: blank # the website title (if blank, full name will be used instead)
 first_name: Lourenço
 middle_name:
 last_name: Gouveia Faria
-email: you@example.com
+email: lourencogfaria@gmail.com
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
   Welcome to my webiste!
 footer_text: >
@@ -50,7 +50,7 @@ search_enabled: true
 socials_in_search: true
 
 # Dimensions
-max_width: 1050px
+max_width: 1000px
 
 # TODO: add layout settings (single page vs. multi-page)
 
