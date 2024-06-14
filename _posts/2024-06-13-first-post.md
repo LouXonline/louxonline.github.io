@@ -20,7 +20,7 @@ $$
 
 And there we go. I just Einsteined out of this!
 
-So... what is going to be the purpose of this blog? I guess I'll be sharing my work and life experiences. To whom? Well, if you are reading this, you are one of the people. But there is no general audience in particular. I am the audience and those who end up here are just curious minds who perhaps are willing to know more about me. By exposing my ideas and objectives in a public manner but without their direct knowledge sounds exciting. Not commiting to the goals I am setting but knowing that someone might be aware of my lazyness or disregard for achieving more might make me more productive. An RSS feed system can be implemented in the website and, if people where to use it, than stakes would feel certainly higher.
+So... what is going to be the purpose of this blog? I guess I'll be sharing my work and life experiences. To whom? Well, if you are reading this, you are one of the people. But there is no general audience in particular. I am the audience and those who end up here are just curious minds who perhaps are willing to know more about me. By exposing my ideas and objectives in a public manner but without their direct knowledge sounds exciting. Not commiting to the goals I am setting but knowing that someone might be aware of my lazyness or disregard for achieving more might make me more productive. An RSS feed system can be implemented in the website and, if people were to use it, than stakes would feel certainly higher.
 
 So let's break down some objectives here for the next few days. Hell, let's be more objective. Let's set objectives for **tomorrow**:
 
