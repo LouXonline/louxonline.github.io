@@ -6,7 +6,7 @@ subtitle: Aerospace engineering student at <a href='https://tecnico.ulisboa.pt/e
 
 profile:
   align: right
-  image:
+  image: publication_preview/gear.gif
   image_circular: false # crops the image to make it circular
   more_info: >
     <p></p>
