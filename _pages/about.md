@@ -1,6 +1,6 @@
 ---
 layout: about
-title: about
+title: About
 permalink: /
 subtitle: Aerospace engineering student at <a href='https://tecnico.ulisboa.pt/en/'>Instituto Superior Técnico</a>
 
