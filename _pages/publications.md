@@ -2,7 +2,7 @@
 layout: page
 permalink: /publications/
 title: Publications
-description: Publications I have contributed to
+description: Papers I have contributed to throughout the years
 nav: false
 nav_order: 2
 ---
