@@ -160,14 +160,19 @@
   ],
   "languages": [
     {
-      "language": "German",
+      "language": "Portuguse",
       "fluency": "Native speaker",
-      "icon": ""
+      "icon": "🇵🇹"
     },
     {
       "language": "English",
-      "fluency": "Fluent",
-      "icon": ""
+      "fluency": "Fluent - C2 Proficiency",
+      "icon": "🇬🇧"
+    },
+    {
+      "language": "French",
+      "fluency": "Basic",
+      "icon": "🇫🇷"
     }
   ],
   "interests": [
