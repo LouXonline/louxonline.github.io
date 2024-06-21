@@ -2,9 +2,9 @@
 layout: page
 title: Acrobat
 description: A Free-flyer for In Orbit Additive Manufacturing
-img: assets/img/Acrobat.jpg
-importance: 2
-category: Academic
+img: assets/img/Acrobat_cropped.jpg
+importance: 1
+category: Group projects
 related_publications: true
 ---
 

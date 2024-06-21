@@ -2,9 +2,9 @@
 layout: page
 title: Personal website
 description: This website!
-img: assets/img/website.jpg
+img: assets/img/website_cropped.jpg
 importance: 1
-category: Personal
+category: Solo projects
 related_publications: true
 ---
 

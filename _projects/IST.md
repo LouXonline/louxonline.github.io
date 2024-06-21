@@ -2,9 +2,9 @@
 layout: page
 title: Bachelor's in Aerospace Engineering
 description: My first academic years
-img: assets/img/ist_logo.png
+img: assets/img/ist_logo_cropped.png
 importance: 1
-category: Academic
+category: Academic journey
 related_publications: true
 ---
 

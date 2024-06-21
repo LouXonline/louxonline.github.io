@@ -2,9 +2,9 @@
 layout: page
 title: Astro Pi Mission Space Lab
 description: Earth's magnetic field study
-img: assets/img/astro_pi.png
-importance: 2
-category: Extracurricular
+img: assets/img/astro_pi_cropped.png
+importance: 3
+category: Group projects
 related_publications: true
 ---
 

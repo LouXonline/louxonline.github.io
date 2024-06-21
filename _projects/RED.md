@@ -2,9 +2,9 @@
 layout: page
 title: Rocket Experiment Division
 description: Navigation systems & more
-img: assets/img/RED.png
-importance: 1
-category: Extracurricular
+img: assets/img/RED_cropped.png
+importance: 2
+category: Group projects
 related_publications: true
 ---
 
