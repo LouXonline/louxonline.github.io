@@ -2,7 +2,7 @@
 layout: page
 title: Projects
 permalink: /projects/
-description: A selection of academic and personal projects, highlighting my work and dedication
+description: A selection of my academic and personal projects
 nav: false
 nav_order: 3
 display_categories: [Academic, Extracurricular, Personal]
