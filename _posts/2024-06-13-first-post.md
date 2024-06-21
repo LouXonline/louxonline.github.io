@@ -27,10 +27,10 @@ So let's break down some objectives here for the next few days. Hell, let's be m
 - Pull day (Gym)
 - Do 2 exams for _Flight testing_ course and the remaining exercises of the last exam I was doing
 - Review exercises I have already done for _Distributed Predictive Control and Estimation_
-- Keep developing the webiste
+- Keep developing the website
 - Make a blog post!
 
-Just generic objectives. In the future, I want to separate work from personal life and everything else. I need to be careful with what I have writen in here. Privacy is something I have always valued a lot and I don't wish to change in that manner. I am exposing my mind for good reasons, not to reduce my privacy. Let's keep it simple for now. Post done. Heading out.
+Just generic objectives. In the future, I want to separate work from personal life and everything else. I need to be careful with what I have written in here. Privacy is something I have always valued a lot and I don't wish to change in that manner. I am exposing my mind for good reasons, not to reduce my privacy. Let's keep it simple for now. Post done. Heading out.
 
 
 _Lourenço Gouveia Faria_

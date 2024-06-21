@@ -5,7 +5,7 @@ title: Curriculum
 nav: true
 nav_order: 5
 cv_pdf: lourenco_curriculum_vitae.pdf
-description: Here you can find a digital version of my Curriculum Vitae with great detail and a more simplified one in PDF.
+description: Detailed information about my professional journey and achievements, including a downloadable PDF of my Curriculum Vitae
 toc:
   sidebar: left
 ---
