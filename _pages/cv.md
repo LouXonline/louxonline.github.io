@@ -5,7 +5,7 @@ title: Curriculum
 nav: true
 nav_order: 5
 cv_pdf: lourenco_curriculum_vitae.pdf
-description: Detailed information about my professional journey and achievements, including a downloadable PDF of my Curriculum Vitae
+description: Detailed information about my professional journey and achievements
 toc:
   sidebar: left
 ---
