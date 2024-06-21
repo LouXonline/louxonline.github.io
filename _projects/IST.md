@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Bachelor's in Aerospace Engineering
+title: LEAer
 description: My first academic years
 img: assets/img/ist_logo_cropped.png
 importance: 1

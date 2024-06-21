@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Rocket Experiment Division
+title: RED
 description: Navigation systems & more
 img: assets/img/RED_cropped.png
 importance: 2
