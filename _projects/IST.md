@@ -1,29 +1,59 @@
 ---
 layout: page
 title: LEAer
-description: My first academic years
+description: Bachelor's degree in Aerospace Engineering
 img: assets/img/ist_logo_cropped.png
 importance: 1
 category: Academic journey
-related_publications: true
 giscus_comments: true
 toc:
   sidebar: left
 ---
 
-### Course description
+<p style="margin-bottom:0.5cm;"></p>
 
-#### Overview
+### <b>Introduction</b>
+
+On the 1st of October of 2021 I started my bachelor's degree in Aerospace Engineering [^1].Over the course of the next three years this would be my main focus and, on the side, I participated in a variety of activites which broadened my knowledge in a multitude of areas. Two big projects which I would like to highlight, and to which I contributed, are <a href = "/projects/red/">Rocket Experiment Division</a> and <a href = "/projects/acrobat/">Acrobat</a>.
+
+<p style="margin-bottom:1cm;"></p>
+
+
+
+
+
+
+### <b>Course description</b>
+
+<p style="margin-bottom:0.5cm;">Aerospace Engineering has played an increasingly important role in the 21st century, through the development of different types of vehicles such as airplanes, helicopters, robotised aircraft and the air traffic management itself. It also brings us closer to Space, particularly through the development of rockets and satellites, thus contributing to the improvement of communication channels. The role of an Aerospace Engineer is to design and conceive air and space vehicles, as well as to develop all associated support and control systems.</p>
+
+
+
+
+
+
+
+#### <b>Overview</b>
 
 The Bachelor programme in Aerospace Engineering is a synthesis of advanced technologies that distinguish the 20th century from those that preceded it, which are of increasing importance in the 21st century; they are integrated in various types of vehicles, such as airplanes, helicopters, robotic aircraft, rockets and satellites and in associated support means such as air traffic management and other operational aspects.
 
-All these vehicles integrate dynamics of atmospheric, orbital and interplanetary flight, and a wide range of modern technologies, which include aerodynamics, propulsion, structures, materials, manufacturing processes, control, computing, electronics, telecommunications, artificial intelligence, electrical, hydraulic, pneumatic and other systems.
+<p style="margin-bottom:0.5cm;">All these vehicles integrate dynamics of atmospheric, orbital and interplanetary flight, and a wide range of modern technologies, which include aerodynamics, propulsion, structures, materials, manufacturing processes, control, computing, electronics, telecommunications, artificial intelligence, electrical, hydraulic, pneumatic and other systems.</p>
 
-#### History
 
-The Bachelor's Degree in Aerospace Engineering was established in 1991 through the Integrated Master's Degree in Aerospace Engineering, with an initial numerus clausus of 35, which gradually increased to the current 135 with a consistently growing intake. The minimum entry grade has always been the highest among all engineering programs in Portugal and recently became the highest among all university courses. The Aerospace Engineering program is dedicated to maximizing the potential of all its students.
 
-#### Objectives
+
+
+
+#### <b>History</b>
+
+<p style="margin-bottom:0.5cm;">The Bachelor's Degree in Aerospace Engineering was established in 1991 through the Integrated Master's Degree in Aerospace Engineering, with an initial numerus clausus of 35, which gradually increased to the current 135 with a consistently growing intake. The minimum entry grade has always been the highest among all engineering programs in Portugal and recently became the highest among all university courses. The Aerospace Engineering program is dedicated to maximizing the potential of all its students.</p>
+
+
+
+
+
+
+#### <b>Objectives</b>
 
 At the end of the Degree in Aerospace Engineering, the student should have developed knowledge and skills to:
 
@@ -35,7 +65,12 @@ At the end of the Degree in Aerospace Engineering, the student should have devel
 
 - To navigate and interact on professional situations in diverse industrial organizations, services, research, and cultural and educational settings.
 
-#### Designed for
+<p style="margin-bottom:0.5cm;"></p>
+
+
+
+
+#### <b>Designed for</b>
 
 The Aerospace Engineering program has several attractive features:
 
@@ -51,8 +86,20 @@ The Aerospace Engineering program has several attractive features:
 
 - Excellent job prospects both in Portugal and abroad in the aerospace, space, consulting, and other sectors.
 
+<p style="margin-bottom:1cm;"></p>
 
-### Base Education
+
+
+
+### __Base Education__
+
+The basic sciences courses of this undergraduate programme ensure the fundamental training in:
+
+- Mathematics
+- Physics
+- Programming
+- Chemistry
+
 
 #### CDI-I
 
@@ -98,9 +145,19 @@ Probability and Statistics 2022/2023 	2 Sem
 
 0558 - Relativity 2022/2023 	2 Sem 	
 
-### Main Area	
 
-#### sd
+
+
+
+
+### __Main Area__
+
+The core training aims to complement the basic sciences by deepening knowledge in:
+
+- Specific Fields (examples: materials science, flight control, flight test, flight stability, among others)
+- Engineering Sciences (thermodynamics, aerodynamics, electromechanical systems, applied mechanics, electronics, among others)
+
+#### SD
 
 Digital Systems 2021/2022 	1 Sem 
 
@@ -168,17 +225,14 @@ Materials and Solid Mechanics 2023/2024 	2 Sem
 
 Introduction to Aeronautics and Space 2021/2022 	1 Sem 	 	
 
-###  Humanities, Arts and Social Sciences
 
-####  HASS I (Gestão da Cidade: Desafios e Conflitos) 2022/2023 	1 Sem 	 	
 
-####  Option of Economy and Management
 
-####  Ges
 
-Management 2023/2024 	1 Sem 	 	
 
-###  Pre-Major	
+###  __Pre-Major__	
+
+In the final year, students have the opportunity to choose specific subjects covering a wide range of fields that can be deepened in the master’s degree (the major).
 
 ####  AOC
 
@@ -188,8 +242,49 @@ Computer Architecture and Organization 2023/2024 	1 Sem
 
 Distributed Predictive Control and Estimation 2023/2024 	2 Sem 	
 
-###  Integration Project	
+
+
+
+
+
+###  __Humanities, Arts and Social Sciences__
+
+The humanist curricular component plays an important role in harnessing architects’ curiosity about the world they live in as well as understanding it, empowering them to actively respond to its challenges, using scientific and technological knowledge, in a more appropriate and contextualised way.
+
+Students can choose subjects, offered in several faculties of ULisboa, from areas such as Management, Economics, Literature, Psychology, Visual Arts or Sport, among others.
+
+####  HASS I
+
+(Gestão da Cidade: Desafios e Conflitos) 2022/2023 	1 Sem 	 	
+
+#### HASS II
+
+(Tecnologia e Sociedade) 2022/2023 	1 Sem 	Statistics 	
+
+####  Ges
+
+Management 2023/2024 	1 Sem 	 	
+
+
+
+
+
+
+###  __Integration Project__
+
+In order to improve the knowledge acquired during the undergraduate degree, students are challenged to work on a topic related to Aerospace Engineering that may be based on a real challenge, whose solution will be developed in teams.
 
 ####  PAer
 
 1st Cycle Integrated Project in Aerospace Engineering 2023/2024 	2 Sem 	
+
+
+
+
+
+
+<hr>
+
+##### __References__
+
+[^1]: <a href="https://tecnico.ulisboa.pt/en/education/courses/undergraduate-programmes/aerospace-engineering/">https://tecnico.ulisboa.pt/en/education/courses/undergraduate-programmes/aerospace-engineering</a> [accessed 06/23/2024]

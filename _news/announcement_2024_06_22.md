@@ -6,4 +6,4 @@ inline: true
 related_posts: false
 ---
 
-**Website:** Comments are enabled in some areas. Try [_Why this webiste?_](/blog/2024/first-post/)
+**Website:** Comments are enabled in some areas. Try [`Why this website?`](/blog/2024/first-post/)

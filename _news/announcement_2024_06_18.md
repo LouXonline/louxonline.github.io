@@ -6,4 +6,4 @@ inline: true
 related_posts: false
 ---
 
-**Website:** [_Publications_](/publications/) tab completed
+**Website:** [`Publications`](/publications/) tab completed
