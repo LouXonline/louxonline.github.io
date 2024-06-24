@@ -16,6 +16,9 @@ toc:
 
 On the 1st of October of 2021 I started my bachelor's degree in Aerospace Engineering [^1].Over the course of the next three years this would be my main focus and, on the side, I participated in a variety of activites which broadened my knowledge in a multitude of areas. Two big projects which I would like to highlight, and to which I contributed, are <a href = "/projects/red/">Rocket Experiment Division</a> and <a href = "/projects/acrobat/">Acrobat</a>.
 
+**<i class="fa-solid fa-circle-info"></i> NOTE:** The course was mainly taught in portuguese.
+
+
 <p style="margin-bottom:1cm;"></p>
 
 
@@ -91,7 +94,7 @@ The Aerospace Engineering program has several attractive features:
 
 
 
-### __Base Education__
+### <b>Base Education</b>
 
 The basic sciences courses of this undergraduate programme ensure the fundamental training in:
 
@@ -100,183 +103,412 @@ The basic sciences courses of this undergraduate programme ensure the fundamenta
 - Programming
 - Chemistry
 
+<p style="margin-bottom:0.5cm;"></p>
 
-#### CDI-I
+#### <b>CDI-I</b>
 
-Differential and Integral Calculus I 2021/2022 1 Sem	
+##### Differential and Integral Calculus I (2021/2022 - 1st Semester)	
 
-#### QG
+###### <u>Objectives</u>
 
-N9 - General Chemistry 2021/2022 1 Sem
+Master concepts and techniques of differentiable and integral calculus in one variable. Develop analytic thinking, creativity and innovation capacity, through the application of those concepts and techniques in different contexts.
 
-#### AL
+<p style="margin-bottom:0.5cm;"></p>
 
-Linear Algebra 2021/2022 	1 Sem 	 	
+#### <b>QG</b>
 
-#### CDI-II
+##### N9 - General Chemistry (2021/2022 - 1st Semester)
 
-Differential and Integral Calculus II 2021/2022 	2 Sem 	 
+###### <u>Objectives</u>
 
-#### Pro
+This curricular unit is intended for different Engineering courses that require a basic knowledge of Chemistry. At the end, the students will have developed the ability to understand the structure, properties and transformation of materials, based on the knowledge of how and why atoms combine to form molecules and materials, and how to estimate their properties from their composition and structure (structure-properties relationships). This objective is achieved through the inclusion of new and current topics, as well as case-studies on specific subjects that motivate students to their importance in various areas of Engineering, namely in those related to their respective undergraduate courses. 
 
-Programming 2021/2022 	2 Sem 	 
+<p style="margin-bottom:0.5cm;"></p>
 
-#### MC
+#### <b>AL</b>
 
-Computational Mathematics 2022/2023 	1 Sem 	 
+##### Linear Algebra (2021/2022 - 1st Semester) 	 	
 
-#### CDI-III
+###### <u>Objectives</u>
 
-Differential and Integral Calculus III 2022/2023 	1 Sem 	 	
+Master matrix calculus and methods for solving systems of linear equations. Learn about vector spaces and linear transformations. Study canonical forms of matrices, eigenvectors, eigenvalues and singular values. Study applications of the previous subjects.
 
-#### EO
+<p style="margin-bottom:0.5cm;"></p>
 
-Electromagnetism and Optics 2022/2023 	1 Sem 	
+#### <b>CDI-II</b>
 
-#### IMQ
+##### Differential and Integral Calculus II (2021/2022 - 2nd Semester) 	 
 
-Introduction to Quantum Mechanics 2022/2023 	2 Sem 	 	
+###### <u>Objectives</u>
 
-#### PE
+Master the differential and integral calculus of scalar and vector valued functions of several real variables and multiple and line integrals, including the fundamental theorems of calculus for line and double integrals, and geometric and physical applications.
 
-Probability and Statistics 2022/2023 	2 Sem 	
+<p style="margin-bottom:0.5cm;"></p>
 
-#### Rel
+#### <b>Pro</b>
 
-0558 - Relativity 2022/2023 	2 Sem 	
+##### Programming (2021/2022 - 2nd Semester) 	 
+
+###### <u>Objectives</u>
+
+The Programming course aims to provide students with the basics of procedural programming in high level languages. The students are expected to acquire the indispensable concepts for algorithmic problem solving, with special emphasis on those that usually arise in the area of Engineering, data abstraction and structured programming.
+
+<p style="margin-bottom:0.5cm;"></p>
+
+#### <b>MC</b>
+
+##### Computational Mathematics (2022/2023 - 1st Semester) 	 
+
+###### <u>Objectives</u>
+
+Understand the finite limitations of numerical algorithms. Work with error estimates and understand error propagation in algorithms. Interpolate and extrapolate data also using least squares, and application to data science and experimental measurements. Approximate, derive and integrate functions by numerical methods. Solve equations and nonlinear systems by numerical methods. Approximate the solution of ordinary differential equations, including systems. Approximate the solution of some problems with partial differential equations. Develop and present elementary computational projects. Apply the theory to engineering and computational problems. 
+
+###### <u>Projects</u>
+
+1st Project
+
+<font size="20">
+<a href="/assets/pdf/ist/mc/102845_103354_103042_103027_proj1_mc.pdf"
+   target="_blank" 
+   rel="noopener noreferrer" 
+   >
+   <i class="fa-solid fa-file-pdf"></i>
+</a>
+</font>
+
+2nd Project
+
+<font size="20">
+<a href="/assets/pdf/ist/mc/102845_103354_103042_103027_proj1_mc.pdf"
+   target="_blank" 
+   rel="noopener noreferrer" 
+   >
+   <i class="fa-solid fa-file-pdf"></i>
+</a>
+</font>
+
+<p style="margin-bottom:0.5cm;"></p>
+
+#### <b>CDI-III</b>
+
+##### Differential and Integral Calculus III (2022/2023 - 1st Semester) 	 	
+
+###### <u>Objectives</u>
+
+Master the resolution of elementary ordinary differential equations; resolution of linear differential equations and systems of linear differential equations. Existence, uniqueness and continuous dependence of solutions of ordinary differential equations. Gauss and Stokes theorems, general properties of the divergence and curl of vector fields, and applications. Resolution of elementary linear partial differential equations of 1st and 2nd order. General properties and convergence of Fourier series, Fourier transform and applications.
+
+<p style="margin-bottom:0.5cm;"></p>
+
+#### <b>EO</b>
+
+##### Electromagnetism and Optics 2022/2023 (1st Semester) 	
+
+###### <u>Objectives</u>
+
+General: Quantitatively predict the consequences of a variety of physical phenomena with calculatory tools. Ensure advanced and thorough scientific training in a fundamental field of Physics, hence allowing for disciplinary or interdisciplinary approaches to innovation. Specific: Ability to understand and interconnect the concepts and basic principles of Electromagnetism and Optics, to understand how the history of how Maxwell's equations for the electromagnetic field have emerged and the integrative perspective of Maxwell's equations; ability to apply the concepts of to problem solving, particularly in what concerns their technological applications. 
+
+<p style="margin-bottom:0.5cm;"></p>
+
+#### <b>IMQ</b>
+
+##### Introduction to Quantum Mechanics (2022/2023 - 2nd Semester) 	 	
+
+###### <u>Objectives</u>
+
+General: Predict quantitatively the consequence of a variety of phenomena through calculations. Ensure advanced and deep scientific training for innovative approaches, both within this field and in interdisciplinary endeavours. Specific: To understand and being able to apply Physics and modern technology based on Quantum Mechanics. To get familiar with the concept of spin. Application of the principles of QM to simple physical systems: tunnel effect through a potential barrier, hydrogen atom and the harmonic oscillator, etc. 
+
+<p style="margin-bottom:0.5cm;"></p>
+
+#### <b>PE</b>
+
+##### Probability and Statistics (2022/2023 - 2nd Semester) 	
+
+###### <u>Objectives</u>
+
+Master concepts of statistical data analysis, probability theory and statistical inference to understanding and applying such concepts to solve real-life problems in engineering and science.
+
+<p style="margin-bottom:0.5cm;"></p>
+
+#### <b>Rel</b>
+
+##### 0558 - Relativity (2022/2023 - 2nd Semester) 	
+
+###### <u>Objectives</u>
+
+This course on the special theory of relativity establishes the important concepts and develops the equations necessary for the understanding of the theory. Physical kinematic effects like space contraction, time dilation and the twin paradox will be explained. Spacetime diagrams will be used. Relativistic dynamical processes will also be introduced and the formula E=mc² deduced. 
+
+
+<p style="margin-bottom:1cm;"></p>
 
 
 
 
 
-
-### __Main Area__
+### <b>Main Area</b>
 
 The core training aims to complement the basic sciences by deepening knowledge in:
 
 - Specific Fields (examples: materials science, flight control, flight test, flight stability, among others)
 - Engineering Sciences (thermodynamics, aerodynamics, electromechanical systems, applied mechanics, electronics, among others)
 
-#### SD
+<p style="margin-bottom:0.5cm;"></p>
 
-Digital Systems 2021/2022 	1 Sem 
+#### <b>SD</b>
 
-#### DMG
+##### Digital Systems (2021/2022 - 1st Semester) 
 
-Technical Drawing and Geometrical Modelling 2021/2022 	1 Sem 	 	
+###### Objectives
 
-#### MA-I 
+Use binary number systems and binary arithmetic. Derive, manipulate and minimize boolean functions. Implement boolean functions with circuits with logic gates. Understand the operation of the fundamental building blocks of combinational circuits. Understand the operation of basic memory elements, and work with registers and counters. Specify and synthesize synchronous sequential circuits. Understand basic timing issues, including clocking, timing constraints, and propagation delays. Design low-complexity digital systems with both combinational and sequential components. 
 
-Applied Mechanics I 2021/2022 	2 Sem 	
+<p style="margin-bottom:0.5cm;"></p>
 
-#### CMat
+#### <b>DMG</b>
 
-Materials Science 2021/2022 	2 Sem 	
+##### Technical Drawing and Geometrical Modelling (2021/2022 - 1st Semester) 	 	
 
-#### D
+###### <u>Objectives</u>
 
-Performance 2021/2022 	2 Sem 	 
+Development of graphical representation skills associated with systems and industrial products. With this course the student will be able to produce and transmit ideas, concepts and carry out small design projects using sketching, CAD and geometric modeling techniques.
 
-#### MA-II
+<p style="margin-bottom:0.5cm;"></p>
 
-Applied Mechanics II 2022/2023 	1 Sem 
+#### <b>IAE</b>
 
-#### TCFE
+##### Introduction to Aeronautics and Space (2021/2022 - 1st Semester) 	 	
 
-Circuits Theory and Electronic Fundamentals 2022/2023 	2 Sem 	 	
+###### <u>Objectives</u>
 
-#### EVoo
+To provide an overview of Aeroespace Engineering from a technological, operational and historic perspectives and of the different types of aerospace vehicles and their evolution. To emphasize the ability to use language skills for technical purposes such as preparation of reports, project proposals and oral presentations.
 
-Flight Stability 2022/2023 	2 Sem 
+<p style="margin-bottom:0.5cm;"></p>
 
-#### T-I
+#### <b>MA-I</b> 
 
-Thermodynamics I 2022/2023 	2 Sem 	
+##### Applied Mechanics I (2021/2022 - 2nd Semester) 	
 
-####  A-I
+###### <u>Objectives</u>
 
-Aerodynamics I 2023/2024 	1 Sem 	 	
+Provide the students with a solid background in the field of Statics of Rigid Bodies, Geometry of Masses and Kinematics of Rigid Bodies
 
-#### SElect
+<p style="margin-bottom:0.5cm;"></p>
 
-Electromechanical Systems 2023/2024 	1 Sem 
+#### <b>CMat</b>
 
-####  IC
+##### Materials Science (2021/2022 - 2nd Semester) 	
 
-Introduction to Automatic Control 2023/2024 	1 Sem 	 	
+###### <u>Objectives</u>
 
-#### Sat
+The student should be able to predict the main properties of materials and their relations to structure; To select a material for a specific engineering application. 
 
-Orbital Mechanics 2023/2024 	1 Sem 	 
+<p style="margin-bottom:0.5cm;"></p>
 
-####  CVoo
+#### <b>D</b>
 
-Flight Control 2023/2024 	2 Sem 	
+##### Performance (2021/2022 - 2nd Semester) 	 
 
-####  EV
+###### <u>Objectives</u>
 
-Flight Testing 2023/2024 	2 Sem 	
+Provide students with the knowledge, understanding and ability to perform Performance analysis of existing (application to selection) or conceptual (application to design) aircraft.
 
-####  MMS
+<p style="margin-bottom:0.5cm;"></p>
 
-Materials and Solid Mechanics 2023/2024 	2 Sem 
+#### <b>MA-II</b>
 
-#### IAE
+##### Applied Mechanics II (2022/2023 - 1st Semester) 
 
-Introduction to Aeronautics and Space 2021/2022 	1 Sem 	 	
+###### <u>Objectives</u>
+
+Provide the students with a solid background in the field of Rigid Body Dynamics, as well as an introduction to Tensor Analysis, aiming to allow the writing of the physical equations using index notation in a curvilinear coordinate system.
+
+<p style="margin-bottom:0.5cm;"></p>
+
+#### <b>TCFE</b>
+
+##### Circuits Theory and Electronic Fundamentals (2022/2023 - 2nd Semester) 	 	
+
+###### <u>Objectives</u>
+
+To develop the ability to analyse electronic circuits and synthesize simple circuits. Proof experimentally the main concepts studied.
+
+<p style="margin-bottom:0.5cm;"></p>
+
+#### <b>EVoo</b>
+
+##### Flight Stability (2022/2023 - 2nd Semester) 
+
+###### <u>Objectives</u>
+
+The objective of this UC is to introduce the basic concepts of Flight Stability. Models of static and dynamic sytability of the airplane will be derived, in order to study its behaviour in several flight regimes, having prior knowledge of forces and torques applied to the wing, body and stabilizers. The concepts of static and dynamic stability and the equation of motions for the airplane are introduced. The motion is analysed in terms of longitudinal and lateral modes. The effects of aerodynamic stability derivatives on the behaviour of the equations of motion for small perturbations are studied.
+
+<p style="margin-bottom:0.5cm;"></p>
+
+#### <b>T-I</b>
+
+##### Thermodynamics I (2022/2023 - 2nd Semester) 	
+
+###### <u>Objectives</u>
+
+The course covers the fundamental concepts of thermodynamics and develops the tools for performance evaluation of energy conversion systems. This approach includes the definition / identification / study of control volumes and systems with their thermodynamic transformation processes, involving the law of conservation of mass, the two Laws of Thermodynamics and the properties of the substances involved in the transformation.
+
+<p style="margin-bottom:0.5cm;"></p>
+
+####  <b>A-I</b>
+
+##### Aerodynamics I (2023/2024 - 1st Semester) 	 	
+
+###### <u>Objectives</u>
+
+Introduction to fluid mechanics from first principles of classical physics, including the chapter the two-dimensional boundary layer.
+
+<p style="margin-bottom:0.5cm;"></p>
+
+#### <b>SElect</b>
+
+##### Electromechanical Systems (2023/2024 - 1st Semester) 
+
+###### Objectives
+
+Engineering requires the collaboration of different specialties. It is common that aerospace and electric engineers have to solve complex problems together. The objective of this course is to teach students of Aerospace Engineering the basics of Electrotechnology in order to turn possible the above mentioned colaboration. Also, they should be able to solve, alone, simple problems in the area of electromechanical systems. By the end of the course, students should know the principles of electromechanical energy conversion, the equivalent circuits in steady state of the most frequent electromechanical energy converter devices and how to estimate forces, speeds, powers and losses. Students should know some aspects of control and protection in most usual applications.
+
+<p style="margin-bottom:0.5cm;"></p>
+
+####  <b>IC</b>
+
+##### Introduction to Automatic Control (2023/2024 - 1st Semester) 	 	
+
+###### <u>Objectives</u>
+
+The goal of this course is threefold: i) to introduce the fundamental concepts of control theory; ii) to describe methodologies for analysis and synthesis of linear control systems; and iii) to illustrate the applicability of the concepts and methodologies in the project of real-life control systems. As singular elements of this course, distinct from a normal control course, this course provides: i) a short yet rigorous introduction to linear system theory, leading to the key concept of transfer function of a linear system; ii) the description of an advanced control design methodology, so-called loop-shaping technique; and iii) an integrated laboratory of the fundamental control concepts with application to a control system in the aerospace field
+
+<p style="margin-bottom:0.5cm;"></p>
+
+#### <b>Sat</b>
+
+##### Orbital Mechanics (2023/2024 - 1st Semester) 	 
+
+###### <u>Objectives</u>
+
+This course is an introduction to astronautics, with emphasis in all basic aspects related with spaceflight, and associated problems related to the analysis, prediction, and control of the dynamics of space vehicles. After this course the student will be able to identify, formulate, and solve basic spaceflight engineering problems. 
+
+<p style="margin-bottom:0.5cm;"></p>
+
+####  <b>CVoo</b>
+
+##### Flight Control (2023/2024 - 2nd Semester) 	
+
+###### Objectives
+
+Introduce the problematic and usual solutions for the different levels of flight control in atmospheric flight. Analyze and make a quantitative assessment of the dynamic model of an aircraft. Design and evaluate alternative solutions for the stability augmentation system, for the attitude control and guidance systems.
+
+<p style="margin-bottom:0.5cm;"></p>
+
+####  <b>EV</b>
+
+##### Flight Testing (2023/2024 - 2nd Semester) 	
+
+###### <u>Objectives</u>
+
+Acquisition of relevant knowledge on flight test instrumentation systems and flight test techniques: - Flight test concept; - Study of flight test instrumentation systems; - Analysis and application of flight test techniques. The first two objectives are addressed in the theoretical component, being supported by updated bibliographic elements. The final objective will be addressed by the students, through the elaboration and presentation, in a class, of 1 (one) synthesis work on a flight test application. There will be 2 (two) experimental works, involving instrumentation systems, processing and data analysis. The inherent reports will be prepared and delivered during the class period. 
+
+<p style="margin-bottom:0.5cm;"></p>
+
+####  <b>MMS</b>
+
+##### Materials and Solid Mechanics (2023/2024 - 2nd Semester) 
+
+###### <u>Objectives</u>
+
+Concept of stress and strain. Understand the defomations mechanisms of structural components under axial, torsion and bending loading only, or combined loading. Acquire the ability to design truss structures, beam and shaft elements. 
+
+<p style="margin-bottom:1cm;"></p>
 
 
 
 
 
 
-###  __Pre-Major__	
+###  <b>Pre-Major</b>
 
 In the final year, students have the opportunity to choose specific subjects covering a wide range of fields that can be deepened in the master’s degree (the major).
 
-####  AOC
+<p style="margin-bottom:0.5cm;"></p>
 
-Computer Architecture and Organization 2023/2024 	1 Sem 	 	
+####  <b>AOC</b>
 
-####  ECPD
+##### Computer Architecture and Organization (2023/2024 - 1st Semester) 	 	
 
-Distributed Predictive Control and Estimation 2023/2024 	2 Sem 	
+###### <u>Objectives</u>
+
+Identify the fundamental computer architecture components and their roles. Identify the main processor's components and their role. Identify the different instruction types and the required mechanisms for their execution. Understand how a program, written in a high-level language, is executed, including the role of the compiler, assembler, and loader. Writing of rotines and programs in Assembly language. Understand the underlying principals of interruptions/exceptions and the interface with processor peripherals. Understand the importance of a hierarchical memory subsystem and its role in the performance of applications. Identify the advantages and drawbacks stemming from the evolution of computers with respect to the original architecture. 
+
+<p style="margin-bottom:0.5cm;"></p>
+
+####  <b>ECPD</b>
+
+##### Distributed Predictive Control and Estimation (2023/2024 - 2nd Semester) 	
+
+###### <u>Objectives</u>
+
+After successfully completing this course, students should be able to design and test predictive controllers and state estimators for networked systems using distributed optimization techniques
+
+<p style="margin-bottom:1cm;"></p>
 
 
 
 
 
 
-###  __Humanities, Arts and Social Sciences__
+###  <b>Humanities, Arts and Social Sciences</b>
 
 The humanist curricular component plays an important role in harnessing architects’ curiosity about the world they live in as well as understanding it, empowering them to actively respond to its challenges, using scientific and technological knowledge, in a more appropriate and contextualised way.
 
 Students can choose subjects, offered in several faculties of ULisboa, from areas such as Management, Economics, Literature, Psychology, Visual Arts or Sport, among others.
 
-####  HASS I
+<p style="margin-bottom:0.5cm;"></p>
+
+####  <b>HASS I</b>
 
 (Gestão da Cidade: Desafios e Conflitos) 2022/2023 	1 Sem 	 	
 
-#### HASS II
+<p style="margin-bottom:0.5cm;"></p>
+
+#### <b>HASS II</b>
 
 (Tecnologia e Sociedade) 2022/2023 	1 Sem 	Statistics 	
 
-####  Ges
+<p style="margin-bottom:0.5cm;"></p>
 
-Management 2023/2024 	1 Sem 	 	
+####  <b>Ges</b>
+
+##### Management (2023/2024 - 1st Semester) 	 	
+
+###### <u>Objectives</u>
+
+The main objective of the Management course unit is to introduce students to a set of concepts and tools that will enable them to understand the nature of the systemic and integrated functioning of organizations, and evaluate the multidisciplinary methods and resources necessary for their operation. It is intended that students become empowered with the skills that enable them to contribute active and positively to the sustainable growth of organizations, with a particular focus on the following aspects: Culture, ethics, and organizational structure; Accounting and Financial Analysis; Investment Appraisal; Planning and Strategic Management; Marketing Fundamentals. The application of the knowledge acquired is valid for both firms in activity, and entrepreneurial projects, like start-ups resulting from Innovation & Technology Development. The course integrates the simulation management game IST Management Challenge (ISTMC). 
+
+<p style="margin-bottom:1cm;"></p>
 
 
 
 
 
 
-###  __Integration Project__
+###  <b>Integration Project</b>
 
 In order to improve the knowledge acquired during the undergraduate degree, students are challenged to work on a topic related to Aerospace Engineering that may be based on a real challenge, whose solution will be developed in teams.
 
-####  PAer
+<p style="margin-bottom:0.5cm;"></p>
 
-1st Cycle Integrated Project in Aerospace Engineering 2023/2024 	2 Sem 	
+####  <b>PAer</b>
+
+##### 1st Cycle Integrated Project in Aerospace Engineering (2023/2024 - 2nd Semester) 	
+
+###### <u>Objectives</u>
+
+Apply the knowledge acquired during their degree to undertake a project of a scientific, technological or management nature. Extend their knowledge to areas not covered in their degree. Search, obtain, compile and summarize information (scientific, technical, legislation, interviews, polls) relevant to the project. Plan and execute experiments, analyse and interpret data, develop mathematical models, perform computer simulations Develop Critical and Innovative Thinking, Intrapersonnal and Interpersonal Skills. Write and orally present and discuss a technical report.
+
+<p style="margin-bottom:1cm;"></p>
 
 
 
@@ -285,6 +517,6 @@ In order to improve the knowledge acquired during the undergraduate degree, stud
 
 <hr>
 
-##### __References__
+##### <b>References</b>
 
 [^1]: <a href="https://tecnico.ulisboa.pt/en/education/courses/undergraduate-programmes/aerospace-engineering/">https://tecnico.ulisboa.pt/en/education/courses/undergraduate-programmes/aerospace-engineering</a> [accessed 06/23/2024]
