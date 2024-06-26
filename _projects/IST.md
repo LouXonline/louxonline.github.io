@@ -165,26 +165,18 @@ Understand the finite limitations of numerical algorithms. Work with error estim
 
 ###### <u>Projects</u>
 
-1st Project
-
-<font size="20">
-<a href="/assets/pdf/ist/mc/102845_103354_103042_103027_proj1_mc.pdf"
+1st Project:<font size="20"><a href="/assets/pdf/ist/mc/102845_103354_103042_103027_proj1_mc.pdf"
    target="_blank" 
-   rel="noopener noreferrer" 
-   >
-   <i class="fa-solid fa-file-pdf"></i>
-</a>
+   rel="noopener noreferrer" >
+      <i class="fa-solid fa-file-pdf"></i>
+   </a>
 </font>
 
-2nd Project
-
-<font size="20">
-<a href="/assets/pdf/ist/mc/102845_103354_103042_103027_proj1_mc.pdf"
+2nd Project:<font size="20"><a href="/assets/pdf/ist/mc/102845_103354_103042_103027_proj2_mc.pdf"
    target="_blank" 
-   rel="noopener noreferrer" 
-   >
-   <i class="fa-solid fa-file-pdf"></i>
-</a>
+   rel="noopener noreferrer" >
+      <i class="fa-solid fa-file-pdf"></i>
+   </a>
 </font>
 
 <p style="margin-bottom:0.5cm;"></p>
@@ -201,7 +193,7 @@ Master the resolution of elementary ordinary differential equations; resolution 
 
 #### <b>EO</b>
 
-##### Electromagnetism and Optics 2022/2023 (1st Semester) 	
+##### Electromagnetism and Optics (2022/2023 - 1st Semester) 	
 
 ###### <u>Objectives</u>
 
@@ -215,7 +207,30 @@ General: Quantitatively predict the consequences of a variety of physical phenom
 
 ###### <u>Objectives</u>
 
-General: Predict quantitatively the consequence of a variety of phenomena through calculations. Ensure advanced and deep scientific training for innovative approaches, both within this field and in interdisciplinary endeavours. Specific: To understand and being able to apply Physics and modern technology based on Quantum Mechanics. To get familiar with the concept of spin. Application of the principles of QM to simple physical systems: tunnel effect through a potential barrier, hydrogen atom and the harmonic oscillator, etc. 
+General: Predict quantitatively the consequence of a variety of phenomena through calculations. Ensure advanced and deep scientific training for innovative approaches, both within this field and in interdisciplinary endeavours. Specific: To understand and being able to apply Physics and modern technology based on Quantum Mechanics. To get familiar with the concept of spin. Application of the principles of quantum mechanics to simple physical systems: tunnel effect through a potential barrier, hydrogen atom and the harmonic oscillator, etc. 
+
+###### <u>Projects</u>
+
+1st Project:<font size="20"><a href="/assets/pdf/ist/imq/103354_imq_1.pdf"
+   target="_blank" 
+   rel="noopener noreferrer" >
+      <i class="fa-solid fa-file-pdf"></i>
+   </a>
+</font>
+
+2nd Project:<font size="20"><a href="/assets/pdf/ist/imq/103354_proj_2.pdf"
+   target="_blank" 
+   rel="noopener noreferrer" >
+      <i class="fa-solid fa-file-pdf"></i>
+   </a>
+</font>
+
+3rd Project:<font size="20"><a href="/assets/pdf/ist/imq/103354_proj_3.pdf"
+   target="_blank" 
+   rel="noopener noreferrer" >
+      <i class="fa-solid fa-file-pdf"></i>
+   </a>
+</font>
 
 <p style="margin-bottom:0.5cm;"></p>
 
@@ -281,6 +296,15 @@ Development of graphical representation skills associated with systems and indus
 
 To provide an overview of Aeroespace Engineering from a technological, operational and historic perspectives and of the different types of aerospace vehicles and their evolution. To emphasize the ability to use language skills for technical purposes such as preparation of reports, project proposals and oral presentations.
 
+###### <u>Projects</u>
+
+1st Project:<font size="20"><a href="/assets/pdf/ist/iae/VersaaoFinalL2022_2021pdf.pdf"
+   target="_blank" 
+   rel="noopener noreferrer" >
+      <i class="fa-solid fa-file-pdf"></i>
+   </a>
+</font>
+
 <p style="margin-bottom:0.5cm;"></p>
 
 #### <b>MA-I</b> 
@@ -290,6 +314,22 @@ To provide an overview of Aeroespace Engineering from a technological, operation
 ###### <u>Objectives</u>
 
 Provide the students with a solid background in the field of Statics of Rigid Bodies, Geometry of Masses and Kinematics of Rigid Bodies
+
+###### <u>Projects</u>
+
+1st Project:<font size="20"><a href="/assets/pdf/ist/ma-1/Determinacao_do_Centro_de_Gravidade_de_uma_Placa_Plana.pdf"
+   target="_blank" 
+   rel="noopener noreferrer" >
+      <i class="fa-solid fa-file-pdf"></i>
+   </a>
+</font>
+
+2nd Project:<font size="20"><a href="/assets/pdf/ist/ma-1/Esforcos_numa_Trelica.pdf"
+   target="_blank" 
+   rel="noopener noreferrer" >
+      <i class="fa-solid fa-file-pdf"></i>
+   </a>
+</font>
 
 <p style="margin-bottom:0.5cm;"></p>
 
@@ -320,6 +360,22 @@ Provide students with the knowledge, understanding and ability to perform Perfor
 ###### <u>Objectives</u>
 
 Provide the students with a solid background in the field of Rigid Body Dynamics, as well as an introduction to Tensor Analysis, aiming to allow the writing of the physical equations using index notation in a curvilinear coordinate system.
+
+###### <u>Projects</u>
+
+1st Project:<font size="20"><a href="/assets/pdf/ist/ma-2/Colisoes.pdf"
+   target="_blank" 
+   rel="noopener noreferrer" >
+      <i class="fa-solid fa-file-pdf"></i>
+   </a>
+</font>
+
+2nd Project:<font size="20"><a href="/assets/pdf/ist/ma-2/Giroscopio.pdf"
+   target="_blank" 
+   rel="noopener noreferrer" >
+      <i class="fa-solid fa-file-pdf"></i>
+   </a>
+</font>
 
 <p style="margin-bottom:0.5cm;"></p>
 
