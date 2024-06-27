@@ -16,8 +16,11 @@ toc:
 
 On the 1st of October of 2021 I started my bachelor's degree in Aerospace Engineering [^1].Over the course of the next three years this would be my main focus and, on the side, I participated in a variety of activites which broadened my knowledge in a multitude of areas. Two big projects which I would like to highlight, and to which I contributed, are <a href = "/projects/red/">Rocket Experiment Division</a> and <a href = "/projects/acrobat/">Acrobat</a>.
 
-**<i class="fa-solid fa-circle-info"></i> NOTE:** The course was mainly taught in portuguese.
+#### <b>Organisation</b>
 
+The majority of the courses were evaluated on pen and paper based mid-term tests and final exams. In some of the courses, lab assignments and projects were to be developed and delivered. However, not all of them were given a digital form or have any sort of documentation (specially projects based on code) as it was not part of the evaluation. For the courses in which any sort of documentation is available, it will be displayed either trough images or with a downloadable PDF of the assignment.
+
+**<i class="fa-solid fa-circle-info"></i> NOTE:** The courses were mainly taught in portuguese.
 
 <p style="margin-bottom:1cm;"></p>
 
@@ -26,7 +29,7 @@ On the 1st of October of 2021 I started my bachelor's degree in Aerospace Engine
 
 
 
-### <b>Course description</b>
+### <b>Description</b>
 
 <p style="margin-bottom:0.5cm;">Aerospace Engineering has played an increasingly important role in the 21st century, through the development of different types of vehicles such as airplanes, helicopters, robotised aircraft and the air traffic management itself. It also brings us closer to Space, particularly through the development of rockets and satellites, thus contributing to the improvement of communication channels. The role of an Aerospace Engineer is to design and conceive air and space vehicles, as well as to develop all associated support and control systems.</p>
 

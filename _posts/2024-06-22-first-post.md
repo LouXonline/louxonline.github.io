@@ -2,10 +2,10 @@
 layout: post
 title: Why this website?
 date: 2024-06-22 00:00:00
-description: Reasons & navigation tips
+description: Background & motives
 tags: guidance
 categories: website
-featured: true
+featured: false
 related_posts: true
 giscus_comments: true
 toc:
