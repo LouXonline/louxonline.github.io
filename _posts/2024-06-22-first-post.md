@@ -8,8 +8,10 @@ categories: website
 featured: false
 related_posts: true
 giscus_comments: true
-toc:
-  sidebar: left
+thumbnail: assets/img/website.jpg
+images:
+  compare: true
+  slider: true
 ---
 
 <p style="margin-bottom:0.5cm;"></p>
@@ -17,6 +19,15 @@ toc:
 ### <b>Early years</b>
 
 <p>For a long time, I have wanted to deploy my own website. I used to spend a few summer days exploring how HTML, CSS, JavaScript, and other programming languages and tools could be used to develop the front-end of a web-browser page. However, I did not have the skill at the time to make that vision a reality.</p>
+
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/website.jpg" title="Code of a website" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+<div class="caption">
+Snippet of website development code
+</div>
 
 <p>Now that I have had some experience with programming, and looking for the right tools and resources, I came up with a solution that enables me to make my past child goal a dream come true. But what could I show the world in my website? Will it just be a random access point which will serve no purpose?</p>
 

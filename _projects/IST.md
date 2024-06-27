@@ -14,7 +14,16 @@ toc:
 
 ### <b>Introduction</b>
 
-On the 1st of October of 2021 I started my bachelor's degree in Aerospace Engineering [^1].Over the course of the next three years this would be my main focus and, on the side, I participated in a variety of activites which broadened my knowledge in a multitude of areas. Two big projects which I would like to highlight, and to which I contributed, are <a href = "/projects/red/">Rocket Experiment Division</a> and <a href = "/projects/acrobat/">Acrobat</a>.
+On the 1st of October of 2021 I started my bachelor's degree in Aerospace Engineering [^1] at <a href='https://tecnico.ulisboa.pt/en/'>Instituto Superior Técnico</a>. Over the course of the next three years this would be my main focus and, on the side, I participated in a variety of activites which broadened my knowledge in a multitude of areas. Two big projects which I would like to highlight, and to which I contributed, are <a href = "/projects/red/">Rocket Experiment Division</a> and <a href = "/projects/acrobat/">Acrobat</a>.
+
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/a-10.png" title="Fairchild Republic A-10 Thunderbolt II blueprint" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+<div class="caption">
+Fairchild Republic A-10 Thunderbolt II blueprint
+</div>
 
 #### <b>Organisation</b>
 
