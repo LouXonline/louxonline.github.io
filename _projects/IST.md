@@ -298,6 +298,24 @@ Use binary number systems and binary arithmetic. Derive, manipulate and minimize
 
 Development of graphical representation skills associated with systems and industrial products. With this course the student will be able to produce and transmit ideas, concepts and carry out small design projects using sketching, CAD and geometric modeling techniques.
 
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/ist/dmg/ot6.jpg" title="OT6" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+<div class="caption">
+Landing gear support blueprint of Perpi Buc
+</div>
+
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/ist/dmg/perpi_buc.jpg" title="Purpi Buc" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+<div class="caption">
+Perpi Buc complete blueprint
+</div>
+
 <p style="margin-bottom:0.5cm;"></p>
 
 #### <b>IAE</b>
@@ -316,6 +334,15 @@ To provide an overview of Aeroespace Engineering from a technological, operation
       <i class="fa-solid fa-file-pdf"></i>
    </a>
 </font>
+
+<div class="row mt-3">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include video.liquid path="assets/video/glider.mp4" class="img-fluid rounded z-depth-1" controls=true autoplay=true %}
+    </div>
+</div>
+<div class="caption">
+    Styrofoam glider project
+</div>
 
 <p style="margin-bottom:0.5cm;"></p>
 
