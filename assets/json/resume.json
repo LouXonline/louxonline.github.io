@@ -176,14 +176,14 @@
       "publisher": "American Journal of Physics",
       "releaseDate": "2022-05-23",
       "url": "https://example.com/",
-      "summary": "The Earth’s magnetic field can be decomposed into spherical harmonics, and the exact coefficients of the decomposition can be determined through a few measurements of its value at different locations. Using measurements from a magnetometer on board the International Space Station, we computed the multipolar moments of an expansion in spherical harmonics to order 3, calculated the location of the magnetic dip poles, and produced an intensity map of the magnetic field across the globe. The accuracy of the results was evaluated by comparison with data from the International Geomagnetic Reference Field."
+      "summary": "Using measurements from a magnetometer on board the International Space Station, we computed the multipolar moments of an expansion in spherical harmonics to order 3, calculated the location of the magnetic dip poles, and produced an intensity map of the magnetic field across the globe."
     },
     {
       "name": "Modelling the Earth's magnetic field with magnetometer data from a Raspberry Pi on board the ISS",
       "publisher": "",
       "releaseDate": "2021-07-31",
       "url": "https://example.com/",
-      "summary": "We used data from a magnetometer on board the ISS to simulate the Earth’s magnetic field. For that purpose, we generated two models from the data and compared them: an off-centered dipole model and a centered multipolar model. We found out that measuring the magnetic field along only two orbits is not enough to provide a good estimate of the Earth’s magnetic field, as they chart a too small portion of the Earth’s surface. This was our original work within the \"Astro Pi Challenge\", a project ran by ESA and the Raspberry Pi Foundation, and the magnetometer used was the one incorporated in the Raspberry Pi Sense Hat. Here, we improved by performing the same analysis using data from ten orbits and learned that the multipolar model already provides a good approximation to the Earth’s magnetic field with this number of orbits. We also noticed a deviation of the data collected from what would be expected from the IGRF model, in both sets of data."
+      "summary": "We used data from a magnetometer on board the ISS to simulate the Earth’s magnetic field. This was our original work within the \"Astro Pi Challenge\", a project ran by ESA and the Raspberry Pi Foundation, and the magnetometer used was the one incorporated in the Raspberry Pi Sense Hat."
     }
   ],
   "languages": [
