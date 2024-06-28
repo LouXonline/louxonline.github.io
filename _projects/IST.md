@@ -304,12 +304,53 @@ Development of graphical representation skills associated with systems and indus
     </div>
 </div>
 <div class="caption">
-Landing gear support blueprint of Perpi Buc
+Main gear blueprint of Perpi Buc
+</div>
+
+<div class="row">
+   <div class="col-sm mt-3 mt-md-0">
+         {% include figure.liquid loading="eager" path="assets/img/ist/dmg/main_gear_1.jpg" title="Flat main gear blueprint" class="img-fluid rounded z-depth-1" %}
+   </div>
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/ist/dmg/main_gear_2.jpg" title="Main gear blueprint" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+<div class="caption">
+    Main gear blueprint of Perpi Buc
+</div>
+
+<div class="row">
+   <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/ist/dmg/wheel.jpg" title="Wheel blueprint" class="img-fluid rounded z-depth-1" %}
+        <div class="caption">
+            Wheel blueprint of Perpi Buc
+        </div>
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/ist/dmg/F-7.jpg" title="Fuselage support blueprint" class="img-fluid rounded z-depth-1" %}
+        <div class="caption">
+           Fuselage support blueprint of Perpi Buc
+        </div>
+    </div>
+</div>
+
+<div class="row">
+   
+   
 </div>
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/ist/dmg/perpi_buc.jpg" title="Purpi Buc" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/ist/dmg/subassembly.jpg" title="Fuselage & landing gear blueprint" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+<div class="caption">
+Fuselage & landing gear blueprint of Perpi Buc
+</div>
+
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/ist/dmg/perpi_buc.jpg" title="Perpi Buc" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
@@ -456,6 +497,15 @@ The course covers the fundamental concepts of thermodynamics and develops the to
 
 Introduction to fluid mechanics from first principles of classical physics, including the chapter the two-dimensional boundary layer.
 
+###### <u>Projects</u>
+
+1st Project:<font size="20"><a href="/assets/pdf/ist/a-1/grupo_14.pdf"
+   target="_blank" 
+   rel="noopener noreferrer" >
+      <i class="fa-solid fa-file-pdf"></i>
+   </a>
+</font>
+
 <p style="margin-bottom:0.5cm;"></p>
 
 #### <b>SElect</b>
@@ -476,6 +526,22 @@ Engineering requires the collaboration of different specialties. It is common th
 
 The goal of this course is threefold: i) to introduce the fundamental concepts of control theory; ii) to describe methodologies for analysis and synthesis of linear control systems; and iii) to illustrate the applicability of the concepts and methodologies in the project of real-life control systems. As singular elements of this course, distinct from a normal control course, this course provides: i) a short yet rigorous introduction to linear system theory, leading to the key concept of transfer function of a linear system; ii) the description of an advanced control design methodology, so-called loop-shaping technique; and iii) an integrated laboratory of the fundamental control concepts with application to a control system in the aerospace field
 
+###### <u>Projects</u>
+
+1st Project:<font size="20"><a href="/assets/pdf/ist/ic/pratical_questions.pdf"
+   target="_blank" 
+   rel="noopener noreferrer" >
+      <i class="fa-solid fa-file-pdf"></i>
+   </a>
+</font>
+
+2nd Project:<font size="20"><a href="/assets/pdf/ist/ic/publish.pdf"
+   target="_blank" 
+   rel="noopener noreferrer" >
+      <i class="fa-solid fa-file-pdf"></i>
+   </a>
+</font>
+
 <p style="margin-bottom:0.5cm;"></p>
 
 #### <b>Sat</b>
@@ -485,6 +551,29 @@ The goal of this course is threefold: i) to introduce the fundamental concepts o
 ###### <u>Objectives</u>
 
 This course is an introduction to astronautics, with emphasis in all basic aspects related with spaceflight, and associated problems related to the analysis, prediction, and control of the dynamics of space vehicles. After this course the student will be able to identify, formulate, and solve basic spaceflight engineering problems. 
+
+###### <u>Projects</u>
+
+1st Project:<font size="20"><a href="/assets/pdf/ist/mo/grupo6_tpc_1.pdf"
+   target="_blank" 
+   rel="noopener noreferrer" >
+      <i class="fa-solid fa-file-pdf"></i>
+   </a>
+</font>
+
+2nd Project:<font size="20"><a href="/assets/pdf/ist/mo/grupo6_tpc_2.pdf"
+   target="_blank" 
+   rel="noopener noreferrer" >
+      <i class="fa-solid fa-file-pdf"></i>
+   </a>
+</font>
+
+3rd Project:<font size="20"><a href="/assets/pdf/ist/mo/grupo6_tpc_3.pdf"
+   target="_blank" 
+   rel="noopener noreferrer" >
+      <i class="fa-solid fa-file-pdf"></i>
+   </a>
+</font>
 
 <p style="margin-bottom:0.5cm;"></p>
 
@@ -496,6 +585,15 @@ This course is an introduction to astronautics, with emphasis in all basic aspec
 
 Introduce the problematic and usual solutions for the different levels of flight control in atmospheric flight. Analyze and make a quantitative assessment of the dynamic model of an aircraft. Design and evaluate alternative solutions for the stability augmentation system, for the attitude control and guidance systems.
 
+###### <u>Projects</u>
+
+1st Project:<font size="20"><a href="/assets/pdf/ist/cvoo/rpf_group_10.pdf"
+   target="_blank" 
+   rel="noopener noreferrer" >
+      <i class="fa-solid fa-file-pdf"></i>
+   </a>
+</font>
+
 <p style="margin-bottom:0.5cm;"></p>
 
 ####  <b>EV</b>
@@ -505,6 +603,24 @@ Introduce the problematic and usual solutions for the different levels of flight
 ###### <u>Objectives</u>
 
 Acquisition of relevant knowledge on flight test instrumentation systems and flight test techniques: - Flight test concept; - Study of flight test instrumentation systems; - Analysis and application of flight test techniques. The first two objectives are addressed in the theoretical component, being supported by updated bibliographic elements. The final objective will be addressed by the students, through the elaboration and presentation, in a class, of 1 (one) synthesis work on a flight test application. There will be 2 (two) experimental works, involving instrumentation systems, processing and data analysis. The inherent reports will be prepared and delivered during the class period. 
+
+###### <u>Projects</u>
+
+1st Project:<font size="20"><a href="/assets/pdf/ist/ev/grupo2_expansao da envolvente de voo.pdf"
+   target="_blank" 
+   rel="noopener noreferrer" >
+      <i class="fa-solid fa-file-pdf"></i>
+   </a>
+</font>
+
+###### <u>Projects</u>
+
+1st Project:<font size="20"><a href="/assets/pdf/ist/ev/rpf_group_10.pdf"
+   target="_blank" 
+   rel="noopener noreferrer" >
+      <i class="fa-solid fa-file-pdf"></i>
+   </a>
+</font>
 
 <p style="margin-bottom:0.5cm;"></p>
 
@@ -546,6 +662,15 @@ Identify the fundamental computer architecture components and their roles. Ident
 ###### <u>Objectives</u>
 
 After successfully completing this course, students should be able to design and test predictive controllers and state estimators for networked systems using distributed optimization techniques
+
+###### <u>Projects</u>
+
+1st Project:<font size="20"><a href="/assets/pdf/ist/ecpd/ECPD_report_group_5.pdf"
+   target="_blank" 
+   rel="noopener noreferrer" >
+      <i class="fa-solid fa-file-pdf"></i>
+   </a>
+</font>
 
 <p style="margin-bottom:1cm;"></p>
 
